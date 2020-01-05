@@ -1,0 +1,20 @@
+11 18 D
+A B 10
+A C 20
+B D 10
+C E 33
+B E 10
+C D 20
+D E 20
+D F 2
+E F 1
+E K 25
+E M 13
+F M 22
+F X 28
+K J 4
+M U 11
+M J 3
+X U 10
+J U 15
+B
